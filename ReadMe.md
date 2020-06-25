@@ -1,6 +1,6 @@
 
-#This  my  Blog 
-J
+# This  my  Blog 
+
 #### I will write some tech articles about Git and ava ...
 ###  doc know why code know how
 - Java
