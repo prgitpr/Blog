@@ -1,7 +1,7 @@
 
 # This  my  Blog 
 
-#### I will write some tech articles about Git and ava ...
+#### I will write some tech articles about Git and Java ...
 ###  doc know why code know how
 - Java
    - [参数](https://github.com/prgitpr/Blog/blob/master/Java/%E5%8F%82%E6%95%B0.md)
