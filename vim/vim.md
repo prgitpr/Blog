@@ -1,0 +1,13 @@
+# Tip
+- C-v aw Ecs
+- Ctrl+Shift+U 改为大写
+- Ctrl+Shift+V 粘贴
+- Ctrl+Shift+Alt+u 展示结构
+- F11  toggle  bookmark
+- Ctrl+F11 toggle  bookmark 
+- Shift+F11 show bookmark
+- Ctrl + F12 查看方法
+- Alt +Ctrl +l 修改
+- v +光标选中 +yy 复制
+- pp 粘贴
+- ctrl+alt+home/end 可以进行位置的后退与前进
