@@ -42,8 +42,12 @@ English Version [https://github.com/progit/progit2/tree/master/book](https://git
   git stash pop
   ```
 * git blame<br>
+  git blame -L
   在接收代码 可以 联系原作。或者 再出现问题bug时，看看谁动了奶酪。<br>
 * git bisect
   这个在 debug 时，看看 哪里的奶酪动了。<br>
+  
+* git status
+  查看状态 <br>
 
 ...to be  continued
